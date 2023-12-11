@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Eduardo Centeno</h1>
+<h1 align="center">Hi 👋, I'm Eduardo </h1>
 - 👨‍💻 All of my projects are available at [Github](Github)
 
 - 📫 How to reach me **duardo5632@gmail.com**
