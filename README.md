@@ -40,5 +40,11 @@
 <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="40" height="40"/>
 </a>
-
 </p>
+<style>
+  a {
+      text-decoration: none;
+      outline: none;
+      border: none;
+  }
+</style>
