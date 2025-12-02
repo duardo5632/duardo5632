@@ -1,7 +1,4 @@
 <h1 align="center">Hola 👋, Bienvenido a mi perfil</h1>
-
-
-
 <h2 align="left">Conéctate conmigo:</h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/eduardo-centeno-7997282a3/" target="_blank">
