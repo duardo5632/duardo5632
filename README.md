@@ -1,8 +1,6 @@
 <h1 align="center">Hola 👋, Bienvenido a mi perfil</h1>
 
-<p align="center">
-  📫 como llegar a mi: <a href="mailto:duardo5632@gmail.com">duardo5632@gmail.com</a>
-</p>
+
 
 <h2 align="left">Conéctate conmigo:</h2>
 <p align="left">
