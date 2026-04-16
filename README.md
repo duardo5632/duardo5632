@@ -2,10 +2,10 @@
 <h2 align="left">Conéctate conmigo:</h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/eduardo-centeno-7997282a3/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Eduardo Centeno" height="30" width="40"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Eduardo Centeno" height="30" width="40"/>
   </a>
   <a href="https://discord.gg/duardo5632#7749" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord duardo5632#7749" height="30" width="40"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord duardo5632#7749" height="30" width="40"/>
   </a>
 </p>
 
